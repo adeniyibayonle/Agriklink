@@ -1,0 +1,8 @@
+{
+  "name": "OkoEgbeda - Agro-Mechanized Dispatch & Farmland Trust",
+  "description": "High-power mechanization pooling, verified farmland leasing, and digital credit ledger for Nigerian agricultural cooperatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
